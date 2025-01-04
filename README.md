@@ -131,6 +131,6 @@ A simple e-commerce platform for a clothing brand.
 ## 📫 Let's Connect!  
 - **Email**: [shindeswapnil1101@gmail.com](mailto:shindeswapnil1101@gmail.com)  
 - **GitHub**: [swapnilshinde1101](https://github.com/swapnilshinde1101)  
-- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/swapnil-shinde-334219247)  
+- **LinkedIn**: [Swapnilshinde](https://www.linkedin.com/in/swapnil-shinde-334219247/)
 
 ---
