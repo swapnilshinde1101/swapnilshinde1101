@@ -7,10 +7,9 @@ I'm a passionate **Full Stack Developer**, **Java Backend Engineer**, and **Open
 
 ## 🚀 About Me
 
-- 🔭 Currently building: **ERP/SAP System**, **AI-powered chatbots**, and **microservice-based food ordering platforms**.
 - 🌱 Learning & Exploring:
   - **Natural Language Processing (NLP)** for intelligent AI bots
-  - **AWS, Google Cloud** for scalable deployments
+  - **AWS Cloud** for scalable deployments
   - **System Design Principles** for maintainable architectures
 - 💡 Interested in:
   - Java backend systems (Spring Boot, REST APIs)
