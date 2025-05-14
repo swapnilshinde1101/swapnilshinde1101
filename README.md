@@ -73,7 +73,7 @@ A simple and intuitive expense tracker application to manage daily expenses, vis
 
  --- 
 
-### [**ERP / SAP System**](https://github.com/swapnilshinde1101/erp-backend)
+### [**ERP / SAP System**](https://github.com/swapnilshinde1101/ERP)
 > A modular enterprise resource planning system supporting role-based access, employee management, payroll, leave, and inventory tracking.
 
 **Stack**: Spring Boot, MySQL, React, JWT  
